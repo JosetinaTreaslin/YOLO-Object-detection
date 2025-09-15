@@ -2,7 +2,6 @@
 
 This project implements **YOLO-based Object Detection** to identify objects in **images, videos, and live camera streams**. It is trained with a custom dataset and deployed as a **web application** where users can upload images or videos to detect objects in real-time.
 
----
 
 ## 🔹 Features
 - 📸 **Image Detection** – Upload images to detect objects.  
@@ -11,7 +10,6 @@ This project implements **YOLO-based Object Detection** to identify objects in *
 - 🌐 **Web Interface** – Simple webpage to upload files and view results.  
 - ✅ **Custom Training** – Model trained on dataset for accurate predictions.  
 
----
 
 ## 🔹 Tech Stack
 - **Platform:** Google Colab  
